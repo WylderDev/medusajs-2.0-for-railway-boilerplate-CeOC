@@ -16,15 +16,15 @@ const Hero = () => {
             level="h2"
             className="text-3xl leading-10 text-ui-fg-subtle font-normal"
           >
-            Need help customizing your store?
+            Need help?
           </Heading>
         </span>
         <a
-          href="https://funkyton.com/medusajs-2-0-is-finally-here/"
+          href="https://wyldertech.com/"
           target="_blank"
         >
           <h1 style={{ textDecoration: "underline" }}>
-            Visit the tutorial
+            Get Help
           </h1>
         </a>
       </div>
